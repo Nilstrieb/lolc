@@ -5,7 +5,7 @@ edition = "2021"
 license = "MIT"
 repository = "https://github.com/Nilstrieb/lolc"
 homepage = "https://github.com/Nilstrieb/lolc"
-
+description = "when you have to use libc and find it funny how horrible it is"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
